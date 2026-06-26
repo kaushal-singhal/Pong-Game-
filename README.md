@@ -6,7 +6,7 @@ A classic **2-player Pong Game** built using **Java Swing** and **AWT**. The gam
 
 ## 📸 Preview
 
-<img src="images/pong-preview.png" alt="Pong Game" width="700"/>
+<img src="pong-preview.png" alt="Pong Game" width="700"/>
 
 > *(Replace the image above with a screenshot of your game.)*
 
