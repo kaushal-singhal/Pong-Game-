@@ -161,7 +161,7 @@ Responsibilities:
 ### Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/pong-game.git
+git clone https://github.com/kaushal-singhal/pong-game.git
 ```
 
 ## 👨‍💻 Author
